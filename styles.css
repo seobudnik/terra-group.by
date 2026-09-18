@@ -335,13 +335,15 @@ strong {
 }
 
 .agency-photo {
+  display: block;
   width: 100%;
-  min-height: 260px;
+  height: auto;
+  min-height: 220px;
+  object-fit: cover;
+  aspect-ratio: 4 / 3;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
-  background:
-    url("assets/team.jpg") center / cover no-repeat,
-    linear-gradient(160deg, #b8f0e0, #ffe6a8);
+  background: linear-gradient(160deg, #b8f0e0, #ffe6a8);
 }
 
 .formats-list {
@@ -391,18 +393,15 @@ strong {
 }
 
 .topic-media {
-  min-height: 220px;
+  display: block;
+  width: 100%;
+  height: auto;
+  min-height: 200px;
+  object-fit: cover;
+  aspect-ratio: 4 / 3;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
-  background: center / cover no-repeat, linear-gradient(145deg, #c8f2e6, #ffe8b0);
-}
-
-.topic-media-1 {
-  background-image: url("assets/topic-1.jpg"), linear-gradient(145deg, #c8f2e6, #ffe8b0);
-}
-
-.topic-media-2 {
-  background-image: url("assets/topic-2.jpg"), linear-gradient(155deg, #ffd4c4, #b8ebe0);
+  background: linear-gradient(145deg, #c8f2e6, #ffe8b0);
 }
 
 .topic-copy p {
@@ -534,7 +533,9 @@ strong {
   }
 
   .agency-photo {
-    min-height: 280px;
+    min-height: 0;
+    height: 100%;
+    max-height: 320px;
   }
 
   .formats-list li {
@@ -570,7 +571,8 @@ strong {
   }
 
   .topic-media {
-    min-height: 300px;
+    min-height: 0;
+    max-height: 340px;
   }
 
   .contact-layout {
