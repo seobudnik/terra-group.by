@@ -1,6 +1,6 @@
-# Terra Group — практика и стажировка в event
+# Eventerra — практика и стажировка в event
 
-HTML-лендинг образовательного контура агентства: учебная практика, летняя стажировка, помощник на проекте.
+Вымышленный бренд (локальная папка проекта может называться иначе). HTML-лендинг: учебная практика, летняя стажировка, помощник на проекте.
 
 ## Секции (главная — практика)
 
@@ -14,8 +14,7 @@ HTML-лендинг образовательного контура агентс
 
 ## Услуги
 
-- [`services/kommercheskie-sobytiya.html`](services/kommercheskie-sobytiya.html) — коммерческие события / BTL  
-  Целевой URL: `https://www.terra-group.by/services/kommercheskie-sobytiya.html`
+- [`services/kommercheskie-sobytiya.html`](services/kommercheskie-sobytiya.html) — коммерческие события / BTL
 
 ## Старт
 
