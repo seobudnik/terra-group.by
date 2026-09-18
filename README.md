@@ -15,6 +15,18 @@
 ## Услуги
 
 - [`services/kommercheskie-sobytiya.html`](services/kommercheskie-sobytiya.html) — коммерческие события / BTL
+- [`services/korporativnye-sobytiya.html`](services/korporativnye-sobytiya.html) — корпоративные события
+- [`services/biznes-sobytiya/konferencii.html`](services/biznes-sobytiya/konferencii.html) — конференции
+- [`services/biznes-sobytiya/prezentacii.html`](services/biznes-sobytiya/prezentacii.html) — презентации
+- [`services/obuchenie/kouching.html`](services/obuchenie/kouching.html) — коучинг
+- [`services/korporativnye-sobytiya/komandoobrazovanie.html`](services/korporativnye-sobytiya/komandoobrazovanie.html) — командообразование
+
+## Блог
+
+- [`blog/index.html`](blog/index.html) — статьи (учёба в РБ + практика в event)
+- [`blog/kak-napisat-diplom-marketing-event-rb.html`](blog/kak-napisat-diplom-marketing-event-rb.html) — диплом для маркетинга / PR / event
+- [`blog/SERP-analiz.md`](blog/SERP-analiz.md) — разбор выдачи по темам
+
 
 ## Старт
 
